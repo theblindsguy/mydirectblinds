@@ -1,2 +1,1 @@
-<a href='https://www.mydirectblinds.com.au'>My Direct Blinds</a>
-
+`My Direct Blinds <https://www.mydirectblinds.com.au>`_
